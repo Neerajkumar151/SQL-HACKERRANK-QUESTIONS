@@ -949,4 +949,4 @@ This repository contains solutions to SQL problems from **HackerRank**.Each solu
 ## 🚀 How to Use  
 1. Clone the repository:  
    ```bash
-   https://github.com/Neerajkumar151/HackerRank_SQL_Series.git
+   https://github.com/Neerajkumar151/SQL-HACKERRANK-QUESTIONS.git
